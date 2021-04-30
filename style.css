@@ -1,0 +1,51 @@
+body{
+	background-color: #AACFF5;}
+.title ul{
+	margin: 80px;
+}
+.title ul li{
+	color: white;
+	font-size: 30px;
+	display: inline;
+	list-style: none;
+	margin: 30px;
+	cursor: pointer;
+}
+.title{
+	background-color: #7EBCFB ;
+}
+
+.active{
+	color: #044C96 !important;
+	}
+.showcase{
+	background-color: white; 
+	cursor: pointer;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+.categori{
+	font-size: 30px;
+}
+span.a{
+	display: inline-block;
+	height: 300px;
+	width: 250px;
+}
+
+.showcase ul li{
+	display:inline;
+	list-style: none;
+}
+.end{
+	background-color:#7EBCFB  ;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+
+p.endwords{
+	font-size: 16px!IMPORTANT;
+	color: silver;
+	cursor: pointer;
+	vertical-align: top;
+}
